@@ -13,7 +13,7 @@ I want determine the **target customer** of the product. and predict the **chang
 Help the sellers to improve their product and aim the marketing strategy toward the right customers.
 
 #### Data Description:
-* What dataset(s) do you plan to use, and how will you obtain the data?
+* What dataset(s) do you plan to use, and how will you obtain the data? Maybe amazon reviews dadaset
 
 * What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 
