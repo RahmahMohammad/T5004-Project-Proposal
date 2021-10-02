@@ -1,20 +1,24 @@
 # T5004-Project-Proposal
 
-Before you start project work for a course, you **should be able to complete the following proposal template**, addressing the questions listed as completely as possible. 
-However, keep in mind that throughout the design iterations of your project, many parts of it will likely change 
-(i.e. increase/decrease in number of samples, types of features or algorithm used, etc), so this is just a starting point.
-Also, if you are unsure in some areas, you should still submit a partial proposal to receive feedback from instructors. 
+The purpose of the project is to help the sellers to understand the market more and determine thire target customer and what her/his needs to provide the best product or services. 
+By classify the customers according to the age, gender, income, and so on to understand the persona of the byers, to plane the marketing strategy according to the results.
+Also, by predict the sales rate if there is a change on the product's features (add, remove. modify).
 
-In addition to submitting this plan, you may discuss the areas below with an instructor in a **scope meeting**.
+
 
 #### Question/need:
 * What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
+I want determine the **target customer** of the product. and predict the **change of the sales** if we add / remove / change on a feature.
 * Who benefits from exploring this question or building this model/system?
+Help the sellers to improve their product and aim the marketing strategy toward the right customers.
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
-* What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with? 
+
+* What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
+
 * If modeling, what will you predict as your target?
+I will predict the sale rate.
 
 #### Tools:
 * How do you intend to meet the tools requirement of the project? 
