@@ -1,10 +1,28 @@
-# T5004-Project-Proposal
+# Predicting the Sales Rate of a Game
+Rahmah Alyaseen
 
+## Abstract
 The purpose of the project is to help the sellers to increase their profits.
 By understand their market and their customers behaviours and persona with more detailed info. 
 This will help in planing the marketing strategy and in the development decision process. 
 
+## Design
+This project originates from Data Science Bootcamps for SDAIA Academy. 
+The data is provided by 
+, and presents .
+Classifying --------  via machine learning models would enable the ------- to ---------
 
+## Data
+The dataset contains #### ----- with ## features for each, ## of which are categorical.
+
+
+## Algorithms
+## Tools
+- Numpy and Pandas for data manipulation
+- Scikit-learn for modeling
+- Matplotlib and Seaborn for plotting
+- Tableau for interactive visualizations
+## Communication
 
 #### Question/need:
 * **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**  
