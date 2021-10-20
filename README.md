@@ -8,12 +8,11 @@ This will help in planing the marketing strategy and in the development decision
 
 ## Design
 This project originates from Data Science Bootcamps for SDAIA Academy. 
-The data is provided by 
-, and presents .
-Classifying --------  via machine learning models would enable the ------- to ---------
+The data is provided by kaggle.com, and presents list of video games with sales greater than 100,000.
+Predicting sales rate via machine learning models would enable the game developer and publisher to focuse on the important stuf.
 
 ## Data
-The dataset contains #### ----- with ## features for each, ## of which are categorical.
+The dataset contains 16598 video games with 10 features for each, 4 of which are categorical and  A few feature highlights include sales in North America, European Union, Japan, and the other countries.
 
 
 ## Algorithms
@@ -23,24 +22,3 @@ The dataset contains #### ----- with ## features for each, ## of which are categ
 - Matplotlib and Seaborn for plotting
 - Tableau for interactive visualizations
 ## Communication
-
-#### Question/need:
-* **What is the framing question of your analysis, or the purpose of the model/system you plan to build?**  
-To determine the customer attributes and predict the change of the sales if we add / remove / change on the features of the prodact or service. 
-* **Who benefits from exploring this question or building this model/system?**  
-The sellers and providers of the prodact or service.
-
-#### Data Description:
-* **What dataset(s) do you plan to use, and how will you obtain the data?**  
-https://www.kaggle.com/gregorut/videogamesales
-
-* **What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?**
-Global_Sales, Rank, Platform, Genre, Publisher, Year
-* **If modeling, what will you predict as your target?**  
-The system will predict the sale rate. 
-
-#### Tools:
-* **How do you intend to meet the tools requirement of the project?**  
-Pandas & Matplotlib
-* **Are you planning in advance to need or use additional tools beyond those required?**  
-Maybe on the coming steps.
